@@ -1,0 +1,127 @@
+--- 
+cursor_positions: 
+  - :path: app/views/microposts/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-23 17:12:05 +02:00
+  - :path: app/controllers/microposts_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-23 17:57:01 +02:00
+  - :path: app/assets/javascripts/application.js
+    :cursor_offset: 622
+    :timestamp: 2013-07-24 12:20:01 +02:00
+  - :path: app/views/users/show.html.erb
+    :cursor_offset: 166
+    :timestamp: 2013-07-24 12:48:17 +02:00
+  - :path: app/assets/javascripts/users.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 14:23:14 +02:00
+  - :path: Gemfile
+    :cursor_offset: 579
+    :timestamp: 2013-07-24 15:34:24 +02:00
+  - :path: app/assets/stylesheets/user_sessions.css.scss
+    :cursor_offset: 232
+    :timestamp: 2013-07-24 15:53:45 +02:00
+  - :path: app/assets/stylesheets/users.css.scss
+    :cursor_offset: 228
+    :timestamp: 2013-07-24 15:53:49 +02:00
+  - :path: app/views/categories/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-24 12:21:46 +02:00
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-19 18:17:30 +02:00
+  - :path: app/views/microposts/show.html.erb
+    :cursor_offset: 273
+    :timestamp: 2013-07-23 18:00:14 +02:00
+  - :path: app/views/microposts/_form.html.erb
+    :cursor_offset: 507
+    :timestamp: 2013-07-24 17:39:02 +02:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-19 18:17:30 +02:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 79
+    :timestamp: 2013-07-24 18:16:40 +02:00
+  - :path: db/migrate/20130724133529_add_authorization_stuff_to_users.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-24 15:35:29 +02:00
+  - :path: app/helpers/user_sessions_helper.rb
+    :cursor_offset: 31
+    :timestamp: 2013-07-24 15:36:44 +02:00
+  - :path: app/helpers/users_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 14:23:14 +02:00
+  - :path: app/models/micropost.rb
+    :cursor_offset: 135
+    :timestamp: 2013-07-22 16:53:02 +02:00
+  - :path: app/helpers/microposts_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 14:39:46 +02:00
+  - :path: config/environment.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-24 16:58:20 +02:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-19 18:17:30 +02:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 4
+    :timestamp: 2013-07-24 21:18:24 +02:00
+  - :path: db/migrate/20130722123945_create_microposts.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-22 14:39:45 +02:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-24 18:20:32 +02:00
+  - :path: db/migrate/20130722122314_create_users.rb
+    :cursor_offset: 332
+    :timestamp: 2013-07-24 22:54:28 +02:00
+  - :path: app/views/users/new.html.erb
+    :cursor_offset: 22
+    :timestamp: 2013-07-24 22:47:30 +02:00
+  - :path: app/views/home page/Home.rb
+    :cursor_offset: 0
+    :timestamp: 2013-07-24 21:46:02 +02:00
+  - :path: app/views/microposts/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-23 18:01:15 +02:00
+  - :path: app/views/users/edit.html.erb
+    :cursor_offset: 23
+    :timestamp: 2013-07-24 20:34:59 +02:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 2181
+    :timestamp: 2013-07-24 23:13:02 +02:00
+  - :path: app/views/microposts/index.html.erb
+    :cursor_offset: 403
+    :timestamp: 2013-07-23 17:17:47 +02:00
+    :selection_offset: 380
+    :block_selection_mode: false
+  - :path: app/models/user.rb
+    :cursor_offset: 306
+    :timestamp: 2013-07-24 21:54:10 +02:00
+  - :path: app/models/user_session.rb
+    :cursor_offset: 10
+    :timestamp: 2013-07-24 19:45:28 +02:00
+    :selection_offset: 21
+    :block_selection_mode: false
+  - :path: app/controllers/user_sessions_controller.rb
+    :cursor_offset: 318
+    :timestamp: 2013-07-24 18:06:00 +02:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 290
+    :timestamp: 2013-07-25 00:14:41 +02:00
+    :selection_offset: 266
+    :block_selection_mode: false
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 26
+    :timestamp: 2013-07-25 00:18:19 +02:00
+    :selection_offset: 250
+    :block_selection_mode: false
+  - :path: app/views/users/_form.html.erb
+    :cursor_offset: 573
+    :timestamp: 2013-07-24 21:42:58 +02:00
+    :selection_offset: 0
+    :block_selection_mode: false
+  - :path: app/views/user_sessions/new.html.erb
+    :cursor_offset: 211
+    :timestamp: 2013-07-25 00:18:34 +02:00
+files_to_retain: 0

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teste</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+  <div id="user_nav">
+  <% if current_user %>
+   
+  <%= link_to "Edit Profile", edit_user_path(:current) %> |
+    <%= link_to "Logout", logout_path %>
+  <% else %>
+    <%= link_to "Register", new_user_path %> |
+    <%= link_to "Login", login_path %>
+  <% end %>
+</div>  
+</head>
+<body>
+  
+  
+
+
+<div class="container">
+  <div class="row">
+    <div class="span9"><%= yield %></div>
+    <div class="span3">
+      <h2>About Us</h2>
+      <p> We are java's programmers from USTM and  
+          we love this life as logic walks with maths
+          recently we've been interning at PSI
+          wich is something awfull amazing
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+          
+
+</body>
+</html>

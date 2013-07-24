@@ -1,0 +1,5 @@
+--- 
+open_files: 
+  - Gemfile
+  - app/views/layouts/application.html.erb
+  - app/assets/stylesheets/users.css.scss
