@@ -1,4 +1,4 @@
-1374734439
+1374734603
 AddAuthorizationStuffToUsers	/home/admilson/ssror13/teste/db/migrate/20130724133529_add_authorization_stuff_to_users.rb	class AddAuthorizationStuffToUsers 
 Application	/home/admilson/ssror13/teste/config/application.rb	  class Application 
 ApplicationController	/home/admilson/ssror13/teste/app/controllers/application_controller.rb	class ApplicationController 
